@@ -102,7 +102,7 @@ li {
     font-size: 30px;
     margin: 45px 70px;
     color: steelblue;
-    word-break: keep-all;
+    word-break: break-all;
 }
 
 #left_side {
@@ -113,7 +113,7 @@ li {
     border: medium double;
     border-color: palevioletred;
     background-color: floralwhite;
-    font-size: 22px;
+    font-size: 20px;
     color: orchid;
 }
 
@@ -125,7 +125,7 @@ li {
     border: medium double;
     border-color: palevioletred;
     background-color: floralwhite;
-    font-size: 22px;
+    font-size: 20px;
     color: orchid;
 }
 
